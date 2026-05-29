@@ -117,7 +117,7 @@ var lights_out = new Audio('Audio/lights_out.wav');
 
 window.onload = function() {
     start();
-    document.addEventListener('contextmenu', event => event.preventDefault());
+    // document.addEventListener('contextmenu', event => event.preventDefault());
 
 };
 
